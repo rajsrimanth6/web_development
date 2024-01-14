@@ -1,2 +1,1 @@
-ok
-
+alert("Wlecome aboard")
